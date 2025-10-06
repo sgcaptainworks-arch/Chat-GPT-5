@@ -1,0 +1,163 @@
+{
+  "appName": {
+    "message": "chatbot v3"
+  },
+  "shortDesc": {
+    "message": "使用 chatbot v3 应用程序探索先进的中国人工智能功能。体验来自中国 ChatGPT 等效产品的尖端 chatbot 聊天。"
+  },
+  "storeDesc": {
+    "message": "🚀 推出 chatbot v3：\n1. 闪电般的处理速度：体验快速洞察，几乎没有延迟。\n2. 无缝集成：与流行工具连接，实现无摩擦的工作流程。\n3. 持续进化：不断更新，确保性能不断提升。\n\n🌟 主要优势：\n- 简单设置：得益于简化的入门流程，快速启动项目。\n- 多层安全性：通过深度搜索 AI 协议实施下一代防护措施。\n- 增强协作：在全球团队间无缝共享数据。\n\n⚙️ 为前瞻性思维者打造，这款中国 AI 革新了您与数据驱动洞察互动的方式。通过将先进算法与直观设计相结合，该扩展为任何领域的无缝生产力提供以用户为中心的体验。\n\n🔑 以深度搜索 AI 为核心，这一尖端模型在几秒钟内解读海量信息。无论您是研究人员、营销人员还是开发人员，利用中国 AI 解决方案的力量从未如此简单。以最小的努力和最大的影响探索新想法。\n\n🔥 对于那些希望简化编码任务的人来说，深度搜索编码器是您的不二之选。结合 chatbot v3 的强大架构，它有效识别代码模式并简化调试过程。在创新的同时，琐碎的工作瞬间得到处理。\n\n🔧 核心亮点：\n• 快速适应：chatbot v3 从实时数据中无缝学习，以获得顶级结果。\n• 便携访问：在多个设备上使用我们的 chatbot 工具，无需繁重安装。\n• AI 辅助指导：依靠上下文感知提示加速任务流程。\n\n✨ 为什么这很重要：\n➤ 扩展语言范围：深度搜索编码器支持多种语言环境，以扩大覆盖范围。\n➤ 实时反馈：在您工作时，了解 chatbot v3 如何优化其模型。\n➤ 跨平台同步：轻松切换设备，同时保留您的自定义配置。\n\n🌍 希望与 AI 代理实时协作吗？聊天深度搜索提供互动会话，每个查询都会优化未来的响应。与我们的工具一起，您可以将简单的提示转化为推动新视角的详细洞察。\n\n✅ 协作功能：\n✅ 编码器 AI 支持：通过智能建议增强您的编程旅程\n✅ 团队消息：使用 chatbot 聊天进行流畅的沟通和共享进度跟踪。\n✅ 统一平台：将头脑风暴、测试和部署结合到一个连贯的环境中。\n\n💡 通过利用中国 AI 自动化重复性任务，您可以为高层次战略规划腾出宝贵时间。这种方法减少了运营开销，使团队能够专注于创新突破，而不是手动数据处理或长时间调试。\n\n🌐 在线资源：\n➡️ 聊天机器人深度搜索：参与活跃的问答或请求复杂问题的分步说明。\n➡️ chatbot 在线教程：访问互动课程，快速掌握高级功能。\n➡️ 持续更新：观察 chatbot v3 如何演变以应对各行业的更大挑战。\n\n🔎 如果您经常出门在外，chatbot 应用程序将复杂的分析带到您的口袋中。由中国 AI 应用框架提供支持，它与您的桌面环境无缝同步。借助 chatbot v3 的每个查询，您可以在任何地方完成复杂的目标。\n\n🌱 诞生于一家开创性的中国 AI 初创公司，这一模型展示了本地创新如何在全球范围内蓬勃发展。扩展为用户体验设定了新标准，弥合了文化和技术差距。期待比以往更快的分析和更高效的结果。\n\n📌 自定义选项：\n📌 调整参数：调整处理阈值以进行更深入或更快速的分析。\n📌 个性化模板：保存您的常用设置，并在不同场景中重复使用。\n📌 可扩展模块：随着项目的发展扩展功能，确保长期适应性。\n\n✔️ 生产力提升器：\n✔️ 集成知识库：随时查阅参考资料，快速查找。\n✔️ 智能摘要：依靠工具为冗长文档提供简明大纲。\n✔️ 自动警报：设置触发器以接收实时洞察，量身定制您的目标。\n\n🔒 我们对数据保护的承诺确保您的敏感信息始终受到保护。复杂的加密协议和定期的安全审计将入侵者拒之门外。依靠这些强大的防御措施，您可以自信地进行创新。\n\n🏆 现在是时候改变您与 AI 驱动洞察合作的方式了。无论您是在优化商业策略还是推动创意探索，chatbot v3 都准备好交付。拥抱一个大胆、高效的未来，让数据复杂性成为突破性进展的垫脚石。"
+  },
+
+
+
+  "hey__i_m_your_ai_assistant_": {
+    "message": "你好，我是你的 AI 助手！"
+  },
+  "what_can_i_help_with_": {
+    "message": "我能帮你什么？"
+  },
+  "feedback": {
+    "message": "反馈"
+  },
+  "share": {
+    "message": "分享"
+  },
+  "rate_us": {
+    "message": "评价我们"
+  },
+  "settings": {
+    "message": "设置"
+  },
+  "chat_history": {
+    "message": "聊天记录"
+  },
+  "set_personalization": {
+    "message": "设置个性化"
+  },
+  "add_personal_info_or_instructions_to_the_ai_assistant__this_will_help_improve_responses_for_you_": {
+    "message": "添加个人信息或指令到 AI 助手，这将帮助提高回复质量。"
+  },
+  "save": {
+    "message": "保存"
+  },
+  "share_us_with_your_friends": {
+    "message": "与朋友分享我们"
+  },
+  "and_you_ll_unlock_all_ai_assistant_features": {
+    "message": "并解锁所有 AI 助手功能"
+  },
+  "copy_link": {
+    "message": "复制链接"
+  },
+  "facebook": {
+    "message": "Facebook"
+  },
+  "x": {
+    "message": "X"
+  },
+  "telegram": {
+    "message": "Telegram"
+  },
+  "vk_com": {
+    "message": "Vk.com"
+  },
+  "reddit": {
+    "message": "Reddit"
+  },
+  "whatsapp": {
+    "message": "Whatsapp"
+  },
+  "weibo": {
+    "message": "微博"
+  },
+  "post_preview": {
+    "message": "帖子预览"
+  },
+  "stay_tuned__coming_soon_": {
+    "message": "敬请期待 – 即将推出！"
+  },
+  "love_chatbot_": {
+    "message": "喜欢 chatbot 吗？"
+  },
+  "could_you_please_rate_our_extension_": {
+    "message": "能否请您评价我们的扩展程序？"
+  },
+  "did_this_tool_help_you_": {
+    "message": "这个工具对您有帮助吗？"
+  },
+  "share_this_extension_with_your_friends": {
+    "message": "与朋友分享这个扩展程序"
+  },
+  "who_would_find_it_useful_": {
+    "message": "谁会觉得它有用？"
+  },
+  "and_unlock_all_ai_assistant_features": {
+    "message": "并解锁所有 AI 助手功能"
+  },
+  "help_us_be_better": {
+    "message": "帮助我们变得更好"
+  },
+  "your_feedback_matters__what_can_we_improve_": {
+    "message": "您的反馈很重要。我们可以改进什么？"
+  },
+  "send": {
+    "message": "发送"
+  },
+  "message_chatbot": {
+    "message": "消息 chatbot"
+  },
+  "e_g___always_reply_in_french": {
+    "message": "例如，总是用法语回复"
+  },
+  "open_the_extension_in_a_separate_tab": {
+    "message": "在新标签页中打开扩展程序"
+  },
+  "new_chat": {
+    "message": "新聊天"
+  },
+  "start_a_chat": {
+    "message": "开始聊天"
+  },
+  "_p_you_can_try_the_ai_assistant_to_play_a_role__e_g____p__ul__li_act_as_an_english_teacher_and_correct_my_mistakes__li__li_respond_like_a_professional_business_consultant__li___ul__p_or_input_your_data_for_the_ai_assistant_to_generate_responses__e_g____p__ul__li_23_y_o___58_kg__height_165_cm__female__li__li_programmer__php___laravel__js___react___li___ul_": {
+    "message": "<p>您可以使用 AI 助手，例如：</p><ul><li>检查并纠正英语中的错误</li><li>提供商业领域的咨询</li></ul><p>或者输入您的信息以生成个性化的回复，例如：</p><ul><li>23 岁，58 公斤，身高 165 厘米，女性</li><li>程序员。PHP – Laravel，JS – React。</li></ul>"
+  },
+
+
+
+
+
+  "thinking": {
+    "message": "正在思考回复"
+  },
+  "history": {
+    "message": "历史"
+  },
+  "personalize": {
+    "message": "个性化"
+  },
+  "delete": {
+    "message": "删除"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "delete_chat_": {
+    "message": "删除聊天"
+  },
+  "are_you_sure_you_want_to_delete_this_chat_": {
+    "message": "您确定要删除此聊天吗？"
+  },
+  "the_chat_was_deleted": {
+    "message": "聊天已删除"
+  },
+  "you_haven_t_started_any_chats_yet": {
+    "message": "你还没有开始任何聊天"
+  },
+  "link_was_copied_": {
+    "message": "链接已复制！"
+  },
+  "sorry__i_can_t_help_you_with_this_request": {
+    "message": "抱歉，我无法帮助您处理此请求"
+  }
+}
